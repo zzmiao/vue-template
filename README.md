@@ -9,3 +9,8 @@
 5.git remote add origin git@github.com:zzmiao/vue-template.git
 
 6.git push -u origin main
+
+################################
+添加新页面： 
+  在Nav页面添加新页面访问路劲
+  

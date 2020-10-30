@@ -41,6 +41,14 @@ const routes = [{
 			component: () =>
 				import('../views/layout/echarts/index.vue')
 		}, {
+			path: '/table',
+			name: 'table',
+			meta: {
+				title: "表格"
+			},
+			component: () =>
+				import('../views/layout/table/index.vue')
+		}, {
 			path: '/example',
 			name: 'example',
 			meta: {

@@ -29,6 +29,10 @@
 					url: "/echarts",
 					icon: 'el-icon-s-data'
 				}, {
+					name: "表格",
+					url: "/table",
+					icon: 'el-icon-s-data'
+				}, {
 					name: '案例',
 					url: "/example",
 					icon: "el-icon-menu",

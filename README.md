@@ -72,3 +72,14 @@ stylus：主要是给node项目进行css预处理支持，人气不如前两个�
 　　　　　　color:red
 
 　　　　}
+    
+    
+ 选择语法检查方式:
+ Lint on save // 保存就检测
+ Lint and fix on commit // fix和commit时候检查
+ 
+ 
+ 把babel,postcss,eslint这些配置文件放哪:
+    In dedicated config files // 独立文件放置
+    In package.json // 放package.json里
+ 
